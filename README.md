@@ -4,9 +4,13 @@
 
 # Nome completo dos integrantes do projeto:
 
-* Debora Estevam Da Rocha
-* Igor Zanini Cardeal
-* Leonardo Martiliano De Souza
+* Debora Estevam Da Rocha - Documentação / Gestão / Divulgação
+* Igor Zanini Cardeal - Artista 3D (Modelagem e texturização de canário e objetos)
+* Leonardo Martiliano De Souza -  Audio Design (Som ambiente e efeitos sonoros).
+
+# Créditos:
+
+* Matheus – Artista (Concepts de personagens, cenário, cutscene e posters)
 
 Com participação especial de:
 
