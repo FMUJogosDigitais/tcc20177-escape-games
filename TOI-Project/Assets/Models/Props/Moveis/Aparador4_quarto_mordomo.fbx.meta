@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: ba91056dcfcd9ab4a8185fa8a6e5af55
+timeCreated: 1510790431
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abajur2_aparador4_quarto_mordomo
+    100002: //RootNode
+    100004: Aparador4_quarto_mordomo
+    100006: Gaveta1_aparador4_quarto_mordomo
+    100008: Gaveta2_aparador4_quarto_mordomo
+    100010: Lampada_abajur2_aparador4_escritorio
+    100012: Lapis_aparador4_quarto_mordomo
+    100014: Livro_aparador4_quarto_mordomo
+    400000: Abajur2_aparador4_quarto_mordomo
+    400002: //RootNode
+    400004: Aparador4_quarto_mordomo
+    400006: Gaveta1_aparador4_quarto_mordomo
+    400008: Gaveta2_aparador4_quarto_mordomo
+    400010: Lampada_abajur2_aparador4_escritorio
+    400012: Lapis_aparador4_quarto_mordomo
+    400014: Livro_aparador4_quarto_mordomo
+    2300000: Abajur2_aparador4_quarto_mordomo
+    2300002: Aparador4_quarto_mordomo
+    2300004: Gaveta1_aparador4_quarto_mordomo
+    2300006: Gaveta2_aparador4_quarto_mordomo
+    2300008: Lampada_abajur2_aparador4_escritorio
+    2300010: Lapis_aparador4_quarto_mordomo
+    2300012: Livro_aparador4_quarto_mordomo
+    3300000: Abajur2_aparador4_quarto_mordomo
+    3300002: Aparador4_quarto_mordomo
+    3300004: Gaveta1_aparador4_quarto_mordomo
+    3300006: Gaveta2_aparador4_quarto_mordomo
+    3300008: Lampada_abajur2_aparador4_escritorio
+    3300010: Lapis_aparador4_quarto_mordomo
+    3300012: Livro_aparador4_quarto_mordomo
+    4300000: Aparador4_quarto_mordomo
+    4300002: Gaveta1_aparador4_quarto_mordomo
+    4300004: Gaveta2_aparador4_quarto_mordomo
+    4300006: Lapis_aparador4_quarto_mordomo
+    4300008: Livro_aparador4_quarto_mordomo
+    4300010: Abajur2_aparador4_quarto_mordomo
+    4300012: Lampada_abajur2_aparador4_escritorio
+    7400000: Aparador4_quarto_mordomo|Abajur2_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400002: Aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400004: Aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400006: Aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400008: Aparador4_quarto_mordomo|Lampada_abajur2_aparador4_escritorio|Take 001|BaseLayer
+    7400010: Aparador4_quarto_mordomo|Lapis_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400012: Aparador4_quarto_mordomo|Livro_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400014: Gaveta1_aparador4_quarto_mordomo|Abajur2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400016: Gaveta1_aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400018: Gaveta1_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400020: Gaveta1_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400022: Gaveta1_aparador4_quarto_mordomo|Lampada_abajur2_aparador4_escritorio|Take
+      001|BaseLayer
+    7400024: Gaveta1_aparador4_quarto_mordomo|Lapis_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400026: Gaveta1_aparador4_quarto_mordomo|Livro_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400028: Gaveta2_aparador4_quarto_mordomo|Abajur2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400030: Gaveta2_aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400032: Gaveta2_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400034: Gaveta2_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400036: Gaveta2_aparador4_quarto_mordomo|Lampada_abajur2_aparador4_escritorio|Take
+      001|BaseLayer
+    7400038: Gaveta2_aparador4_quarto_mordomo|Lapis_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400040: Gaveta2_aparador4_quarto_mordomo|Livro_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400042: Lapis_aparador4_quarto_mordomo|Abajur2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400044: Lapis_aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400046: Lapis_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400048: Lapis_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400050: Lapis_aparador4_quarto_mordomo|Lampada_abajur2_aparador4_escritorio|Take
+      001|BaseLayer
+    7400052: Lapis_aparador4_quarto_mordomo|Lapis_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400054: Lapis_aparador4_quarto_mordomo|Livro_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400056: Livro_aparador4_quarto_mordomo|Abajur2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400058: Livro_aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400060: Livro_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400062: Livro_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400064: Livro_aparador4_quarto_mordomo|Lampada_abajur2_aparador4_escritorio|Take
+      001|BaseLayer
+    7400066: Livro_aparador4_quarto_mordomo|Lapis_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400068: Livro_aparador4_quarto_mordomo|Livro_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400070: Abajur2_aparador4_quarto_mordomo|Abajur2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400072: Abajur2_aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400074: Abajur2_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400076: Abajur2_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400078: Abajur2_aparador4_quarto_mordomo|Lampada_abajur2_aparador4_escritorio|Take
+      001|BaseLayer
+    7400080: Abajur2_aparador4_quarto_mordomo|Lapis_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400082: Abajur2_aparador4_quarto_mordomo|Livro_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400084: Lampada_abajur2_aparador4_escritorio|Abajur2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400086: Lampada_abajur2_aparador4_escritorio|Aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400088: Lampada_abajur2_aparador4_escritorio|Gaveta1_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400090: Lampada_abajur2_aparador4_escritorio|Gaveta2_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400092: Lampada_abajur2_aparador4_escritorio|Lampada_abajur2_aparador4_escritorio|Take
+      001|BaseLayer
+    7400094: Lampada_abajur2_aparador4_escritorio|Lapis_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    7400096: Lampada_abajur2_aparador4_escritorio|Livro_aparador4_quarto_mordomo|Take
+      001|BaseLayer
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

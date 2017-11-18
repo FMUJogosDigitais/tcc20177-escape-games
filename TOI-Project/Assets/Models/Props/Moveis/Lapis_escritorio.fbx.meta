@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 3db347341f97a6342bbd8bf256236273
+timeCreated: 1510803718
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Lapis_aparador4_quarto_visita
+    7400000: Lapis_aparador4_quarto_visita|Abajur2_aparador4_quarto_mordomo.001|Abajur2_aparador4_quar.000
+    7400002: Lapis_aparador4_quarto_visita|Abajur2_aparador4_quarto_mordomo.001|Abajur2_aparador4_quar.001
+    7400004: Lapis_aparador4_quarto_visita|Abajur2_aparador4_quarto_mordomo.001|Abajur2_aparador4_quar.002
+    7400006: Lapis_aparador4_quarto_visita|Abajur2_aparador4_quarto_mordomo.001|Abajur2_aparador4_quar.003
+    7400008: Lapis_aparador4_quarto_visita|Abajur2_aparador4_quarto_mordomo.001|Abajur2_aparador4_quar.004
+    7400010: Lapis_aparador4_quarto_visita|Abajur2_aparador4_quarto_mordomo.001|Abajur2_aparador4_quar.005
+    7400012: Lapis_aparador4_quarto_visita|Abajur2_aparador4_quarto_mordomo.001|Abajur2_aparador4_quarto_m
+    7400014: Lapis_aparador4_quarto_visita|Abajur2_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400016: Lapis_aparador4_quarto_visita|Aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Abajur2_apara
+    7400018: Lapis_aparador4_quarto_visita|Aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Aparador4_qua
+    7400020: Lapis_aparador4_quarto_visita|Aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Gaveta1_apara
+    7400022: Lapis_aparador4_quarto_visita|Aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Gaveta2_apara
+    7400024: Lapis_aparador4_quarto_visita|Aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Lampada_abaju
+    7400026: Lapis_aparador4_quarto_visita|Aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Lapis_aparado
+    7400028: Lapis_aparador4_quarto_visita|Aparador4_quarto_mordomo|Aparador4_quarto_mordomo|Livro_aparado
+    7400030: Lapis_aparador4_quarto_visita|Aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400032: Lapis_aparador4_quarto_visita|Gaveta1_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_m.000
+    7400034: Lapis_aparador4_quarto_visita|Gaveta1_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_m.001
+    7400036: Lapis_aparador4_quarto_visita|Gaveta1_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_m.002
+    7400038: Lapis_aparador4_quarto_visita|Gaveta1_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_m.003
+    7400040: Lapis_aparador4_quarto_visita|Gaveta1_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_m.004
+    7400042: Lapis_aparador4_quarto_visita|Gaveta1_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_m.005
+    7400044: Lapis_aparador4_quarto_visita|Gaveta1_aparador4_quarto_mordomo|Gaveta1_aparador4_quarto_mordo
+    7400046: Lapis_aparador4_quarto_visita|Gaveta1_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400048: Lapis_aparador4_quarto_visita|Gaveta2_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_m.000
+    7400050: Lapis_aparador4_quarto_visita|Gaveta2_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_m.001
+    7400052: Lapis_aparador4_quarto_visita|Gaveta2_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_m.002
+    7400054: Lapis_aparador4_quarto_visita|Gaveta2_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_m.003
+    7400056: Lapis_aparador4_quarto_visita|Gaveta2_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_m.004
+    7400058: Lapis_aparador4_quarto_visita|Gaveta2_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_m.005
+    7400060: Lapis_aparador4_quarto_visita|Gaveta2_aparador4_quarto_mordomo|Gaveta2_aparador4_quarto_mordo
+    7400062: Lapis_aparador4_quarto_visita|Gaveta2_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400064: Lapis_aparador4_quarto_visita|Lampada_abajur2_aparador4_escritorio.001|Lampada_abajur2_ap.000
+    7400066: Lapis_aparador4_quarto_visita|Lampada_abajur2_aparador4_escritorio.001|Lampada_abajur2_ap.001
+    7400068: Lapis_aparador4_quarto_visita|Lampada_abajur2_aparador4_escritorio.001|Lampada_abajur2_ap.002
+    7400070: Lapis_aparador4_quarto_visita|Lampada_abajur2_aparador4_escritorio.001|Lampada_abajur2_ap.003
+    7400072: Lapis_aparador4_quarto_visita|Lampada_abajur2_aparador4_escritorio.001|Lampada_abajur2_ap.004
+    7400074: Lapis_aparador4_quarto_visita|Lampada_abajur2_aparador4_escritorio.001|Lampada_abajur2_ap.005
+    7400076: Lapis_aparador4_quarto_visita|Lampada_abajur2_aparador4_escritorio.001|Lampada_abajur2_aparad
+    7400078: Lapis_aparador4_quarto_visita|Lampada_abajur2_aparador4_escritorio|Take
+      001|BaseLayer
+    7400080: Lapis_aparador4_quarto_visita|Lapis_aparador4_quarto_mordomo.001|Lapis_aparador4_quarto_m.000
+    7400082: Lapis_aparador4_quarto_visita|Lapis_aparador4_quarto_mordomo.001|Lapis_aparador4_quarto_m.001
+    7400084: Lapis_aparador4_quarto_visita|Lapis_aparador4_quarto_mordomo.001|Lapis_aparador4_quarto_m.002
+    7400086: Lapis_aparador4_quarto_visita|Lapis_aparador4_quarto_mordomo.001|Lapis_aparador4_quarto_m.003
+    7400088: Lapis_aparador4_quarto_visita|Lapis_aparador4_quarto_mordomo.001|Lapis_aparador4_quarto_m.004
+    7400090: Lapis_aparador4_quarto_visita|Lapis_aparador4_quarto_mordomo.001|Lapis_aparador4_quarto_m.005
+    7400092: Lapis_aparador4_quarto_visita|Lapis_aparador4_quarto_mordomo.001|Lapis_aparador4_quarto_mordo
+    7400094: Lapis_aparador4_quarto_visita|Lapis_aparador4_quarto_mordomo|Take 001|BaseLayer
+    7400096: Lapis_aparador4_quarto_visita|Livro_aparador4_quarto_mordomo.001|Livro_aparador4_quarto_m.000
+    7400098: Lapis_aparador4_quarto_visita|Livro_aparador4_quarto_mordomo.001|Livro_aparador4_quarto_m.001
+    7400100: Lapis_aparador4_quarto_visita|Livro_aparador4_quarto_mordomo.001|Livro_aparador4_quarto_m.002
+    7400102: Lapis_aparador4_quarto_visita|Livro_aparador4_quarto_mordomo.001|Livro_aparador4_quarto_m.003
+    7400104: Lapis_aparador4_quarto_visita|Livro_aparador4_quarto_mordomo.001|Livro_aparador4_quarto_m.004
+    7400106: Lapis_aparador4_quarto_visita|Livro_aparador4_quarto_mordomo.001|Livro_aparador4_quarto_m.005
+    7400108: Lapis_aparador4_quarto_visita|Livro_aparador4_quarto_mordomo.001|Livro_aparador4_quarto_mordo
+    7400110: Lapis_aparador4_quarto_visita|Livro_aparador4_quarto_mordomo|Take 001|BaseLayer
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: 1c48b706385cc6447b5675a1c4b05cda
+timeCreated: 1508911406
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Estante
+    100002: //RootNode
+    100004: Gaveta1_estante_despensa
+    100006: Gaveta2_estante_despensa
+    100008: Gaveta3_estante_despensa
+    100010: Gaveta4_estante_despensa
+    100012: Gaveta5_estante_despensa
+    400000: Estante
+    400002: //RootNode
+    400004: Gaveta1_estante_despensa
+    400006: Gaveta2_estante_despensa
+    400008: Gaveta3_estante_despensa
+    400010: Gaveta4_estante_despensa
+    400012: Gaveta5_estante_despensa
+    2300000: Estante
+    2300002: Gaveta1_estante_despensa
+    2300004: Gaveta2_estante_despensa
+    2300006: Gaveta3_estante_despensa
+    2300008: Gaveta4_estante_despensa
+    2300010: Gaveta5_estante_despensa
+    3300000: Estante
+    3300002: Gaveta1_estante_despensa
+    3300004: Gaveta2_estante_despensa
+    3300006: Gaveta3_estante_despensa
+    3300008: Gaveta4_estante_despensa
+    3300010: Gaveta5_estante_despensa
+    4300000: Gaveta5_estante_despensa
+    4300002: Gaveta4_estante_despensa
+    4300004: Gaveta3_estante_despensa
+    4300006: Gaveta2_estante_despensa
+    4300008: Estante
+    4300010: Gaveta1_estante_despensa
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

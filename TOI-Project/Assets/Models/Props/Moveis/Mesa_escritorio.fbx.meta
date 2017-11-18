@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 145910340fd1b074ca896f4a9398c092
+timeCreated: 1509305968
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abajur_mesa_escritorio
+    100002: Cachimbo_mesa_escritorio
+    100004: Gaveta1_mesa_escritorio
+    100006: Gaveta2_mesa_escritorio
+    100008: Gaveta3_mesa_escritorio
+    100010: Gaveta4_mesa_escritorio
+    100012: Gaveta5_mesa_escritorio
+    100014: Gaveta6_mesa_escritorio
+    100016: Lampada_abajur_mesa_escritorio
+    100018: Lapis_mesa_escritorio
+    100020: Livro_mesa_escritorio
+    100022: //RootNode
+    100024: Mesa_escritorio
+    100026: Porta_lapis_mesa_escritorio
+    100028: Telefone_mesa_escritorio
+    400000: Abajur_mesa_escritorio
+    400002: Cachimbo_mesa_escritorio
+    400004: Gaveta1_mesa_escritorio
+    400006: Gaveta2_mesa_escritorio
+    400008: Gaveta3_mesa_escritorio
+    400010: Gaveta4_mesa_escritorio
+    400012: Gaveta5_mesa_escritorio
+    400014: Gaveta6_mesa_escritorio
+    400016: Lampada_abajur_mesa_escritorio
+    400018: Lapis_mesa_escritorio
+    400020: Livro_mesa_escritorio
+    400022: Mesa_escritorio
+    400024: //RootNode
+    400026: Porta_lapis_mesa_escritorio
+    400028: Telefone_mesa_escritorio
+    2300000: Abajur_mesa_escritorio
+    2300002: Cachimbo_mesa_escritorio
+    2300004: Gaveta1_mesa_escritorio
+    2300006: Gaveta2_mesa_escritorio
+    2300008: Gaveta3_mesa_escritorio
+    2300010: Gaveta4_mesa_escritorio
+    2300012: Gaveta5_mesa_escritorio
+    2300014: Gaveta6_mesa_escritorio
+    2300016: Lampada_abajur_mesa_escritorio
+    2300018: Lapis_mesa_escritorio
+    2300020: Livro_mesa_escritorio
+    2300022: Mesa_escritorio
+    2300024: Porta_lapis_mesa_escritorio
+    2300026: Telefone_mesa_escritorio
+    3300000: Abajur_mesa_escritorio
+    3300002: Cachimbo_mesa_escritorio
+    3300004: Gaveta1_mesa_escritorio
+    3300006: Gaveta2_mesa_escritorio
+    3300008: Gaveta3_mesa_escritorio
+    3300010: Gaveta4_mesa_escritorio
+    3300012: Gaveta5_mesa_escritorio
+    3300014: Gaveta6_mesa_escritorio
+    3300016: Lampada_abajur_mesa_escritorio
+    3300018: Lapis_mesa_escritorio
+    3300020: Livro_mesa_escritorio
+    3300022: Mesa_escritorio
+    3300024: Porta_lapis_mesa_escritorio
+    3300026: Telefone_mesa_escritorio
+    4300000: Lapis_mesa_escritorio
+    4300002: Porta_lapis_mesa_escritorio
+    4300004: Telefone_mesa_escritorio
+    4300006: Livro_mesa_escritorio
+    4300008: Cachimbo_mesa_escritorio
+    4300010: Abajur_mesa_escritorio
+    4300012: Lampada_abajur_mesa_escritorio
+    4300014: Mesa_escritorio
+    4300016: Gaveta1_mesa_escritorio
+    4300018: Gaveta2_mesa_escritorio
+    4300020: Gaveta3_mesa_escritorio
+    4300022: Gaveta4_mesa_escritorio
+    4300024: Gaveta5_mesa_escritorio
+    4300026: Gaveta6_mesa_escritorio
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

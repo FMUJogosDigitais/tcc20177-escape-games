@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: db003915adc0b6240b626315bc06c5ec
+timeCreated: 1508885741
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Caneca_estatante_sala_jantar
+    100002: Copo_estante_sala_jantar
+    100004: Cumbuca_estante_sala_jantar
+    100006: //RootNode
+    100008: Estante_sala_jantar
+    100010: Gaveta1_estante_sala_jantar
+    100012: Gaveta2_estante_sala_jantar
+    100014: Gaveta3_estante_sala_jantar
+    100016: Gaveta4_estante_sala_jantar
+    100018: Gaveta5_estante_sala_jantar
+    100020: Gaveta6_estante_sala_jantar
+    100022: Gaveta7_estante_sala_jantar
+    100024: Gaveta8_estante_sala_jantar
+    100026: Jarro_estante_sala_jantar
+    100028: Prato_estante_sala_jantar
+    100030: Tampa1_estante_sala_jantar
+    100032: Tampa2_estante_sala_jantar
+    100034: Tampa3_estante_sala_jantar
+    100036: Tampa4_estante_sala_jantar
+    100038: Tampa5_estante_sala_jantar
+    100040: Tampa6_estante_sala_jantar
+    100042: Tampa7_estante_sala_jantar
+    100044: Tampa8_estante_sala_jantar
+    100046: Tempero_estante_sala_jantar
+    100048: Xicara_estante_sala_jantar
+    400000: Caneca_estatante_sala_jantar
+    400002: Copo_estante_sala_jantar
+    400004: Cumbuca_estante_sala_jantar
+    400006: //RootNode
+    400008: Estante_sala_jantar
+    400010: Gaveta1_estante_sala_jantar
+    400012: Gaveta2_estante_sala_jantar
+    400014: Gaveta3_estante_sala_jantar
+    400016: Gaveta4_estante_sala_jantar
+    400018: Gaveta5_estante_sala_jantar
+    400020: Gaveta6_estante_sala_jantar
+    400022: Gaveta7_estante_sala_jantar
+    400024: Gaveta8_estante_sala_jantar
+    400026: Jarro_estante_sala_jantar
+    400028: Prato_estante_sala_jantar
+    400030: Tampa1_estante_sala_jantar
+    400032: Tampa2_estante_sala_jantar
+    400034: Tampa3_estante_sala_jantar
+    400036: Tampa4_estante_sala_jantar
+    400038: Tampa5_estante_sala_jantar
+    400040: Tampa6_estante_sala_jantar
+    400042: Tampa7_estante_sala_jantar
+    400044: Tampa8_estante_sala_jantar
+    400046: Tempero_estante_sala_jantar
+    400048: Xicara_estante_sala_jantar
+    2300000: Caneca_estatante_sala_jantar
+    2300002: Copo_estante_sala_jantar
+    2300004: Cumbuca_estante_sala_jantar
+    2300006: Estante_sala_jantar
+    2300008: Gaveta1_estante_sala_jantar
+    2300010: Gaveta2_estante_sala_jantar
+    2300012: Gaveta3_estante_sala_jantar
+    2300014: Gaveta4_estante_sala_jantar
+    2300016: Gaveta5_estante_sala_jantar
+    2300018: Gaveta6_estante_sala_jantar
+    2300020: Gaveta7_estante_sala_jantar
+    2300022: Gaveta8_estante_sala_jantar
+    2300024: Jarro_estante_sala_jantar
+    2300026: Prato_estante_sala_jantar
+    2300028: Tampa1_estante_sala_jantar
+    2300030: Tampa2_estante_sala_jantar
+    2300032: Tampa3_estante_sala_jantar
+    2300034: Tampa4_estante_sala_jantar
+    2300036: Tampa5_estante_sala_jantar
+    2300038: Tampa6_estante_sala_jantar
+    2300040: Tampa7_estante_sala_jantar
+    2300042: Tampa8_estante_sala_jantar
+    2300044: Tempero_estante_sala_jantar
+    2300046: Xicara_estante_sala_jantar
+    3300000: Caneca_estatante_sala_jantar
+    3300002: Copo_estante_sala_jantar
+    3300004: Cumbuca_estante_sala_jantar
+    3300006: Estante_sala_jantar
+    3300008: Gaveta1_estante_sala_jantar
+    3300010: Gaveta2_estante_sala_jantar
+    3300012: Gaveta3_estante_sala_jantar
+    3300014: Gaveta4_estante_sala_jantar
+    3300016: Gaveta5_estante_sala_jantar
+    3300018: Gaveta6_estante_sala_jantar
+    3300020: Gaveta7_estante_sala_jantar
+    3300022: Gaveta8_estante_sala_jantar
+    3300024: Jarro_estante_sala_jantar
+    3300026: Prato_estante_sala_jantar
+    3300028: Tampa1_estante_sala_jantar
+    3300030: Tampa2_estante_sala_jantar
+    3300032: Tampa3_estante_sala_jantar
+    3300034: Tampa4_estante_sala_jantar
+    3300036: Tampa5_estante_sala_jantar
+    3300038: Tampa6_estante_sala_jantar
+    3300040: Tampa7_estante_sala_jantar
+    3300042: Tampa8_estante_sala_jantar
+    3300044: Tempero_estante_sala_jantar
+    3300046: Xicara_estante_sala_jantar
+    4300000: Gaveta8_estante_sala_jantar
+    4300002: Tampa6_estante_sala_jantar
+    4300004: Estante_sala_jantar
+    4300006: Caneca_estatante_sala_jantar
+    4300008: Copo_estante_sala_jantar
+    4300010: Cumbuca_estante_sala_jantar
+    4300012: Jarro_estante_sala_jantar
+    4300014: Prato_estante_sala_jantar
+    4300016: Tempero_estante_sala_jantar
+    4300018: Xicara_estante_sala_jantar
+    4300020: Gaveta7_estante_sala_jantar
+    4300022: Gaveta6_estante_sala_jantar
+    4300024: Gaveta5_estante_sala_jantar
+    4300026: Tampa5_estante_sala_jantar
+    4300028: Tampa7_estante_sala_jantar
+    4300030: Tampa8_estante_sala_jantar
+    4300032: Tampa4_estante_sala_jantar
+    4300034: Tampa3_estante_sala_jantar
+    4300036: Tampa2_estante_sala_jantar
+    4300038: Tampa1_estante_sala_jantar
+    4300040: Gaveta1_estante_sala_jantar
+    4300042: Gaveta2_estante_sala_jantar
+    4300044: Gaveta3_estante_sala_jantar
+    4300046: Gaveta4_estante_sala_jantar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

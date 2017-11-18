@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 093b319c5595cb14b98800748f22a63c
+timeCreated: 1502600231
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Janela_quarto1_baixo
+    100004: Janela_quarto1_cima
+    100006: Janela_quarto2_baixo
+    100008: Janela_quarto2_cima
+    100010: Janela_quarto3_baixo
+    100012: Janela_quarto3_cima
+    100014: Janela_quarto4_baixo
+    100016: Janela_quarto4_cima
+    100018: Janela_quarto5_baixo
+    100020: Janela_quarto5_cima
+    100022: Vidro_janela_quarto1_baixo
+    100024: Vidro_janela_quarto1_cima
+    100026: Vidro_janela_quarto2_baixo
+    100028: Vidro_janela_quarto2_cima
+    100030: Vidro_janela_quarto3_baixo
+    100032: Vidro_janela_quarto3_cima
+    100034: Vidro_janela_quarto4_baixo
+    100036: Vidro_janela_quarto4_cima
+    100038: Vidro_janela_quarto5_baixo
+    100040: Vidro_janela_quarto5_cima
+    100042: Camera
+    100044: Directional Light
+    400000: //RootNode
+    400002: Janela_quarto1_baixo
+    400004: Janela_quarto1_cima
+    400006: Janela_quarto2_baixo
+    400008: Janela_quarto2_cima
+    400010: Janela_quarto3_baixo
+    400012: Janela_quarto3_cima
+    400014: Janela_quarto4_baixo
+    400016: Janela_quarto4_cima
+    400018: Janela_quarto5_baixo
+    400020: Janela_quarto5_cima
+    400022: Vidro_janela_quarto1_baixo
+    400024: Vidro_janela_quarto1_cima
+    400026: Vidro_janela_quarto2_baixo
+    400028: Vidro_janela_quarto2_cima
+    400030: Vidro_janela_quarto3_baixo
+    400032: Vidro_janela_quarto3_cima
+    400034: Vidro_janela_quarto4_baixo
+    400036: Vidro_janela_quarto4_cima
+    400038: Vidro_janela_quarto5_baixo
+    400040: Vidro_janela_quarto5_cima
+    400042: Camera
+    400044: Directional Light
+    2300000: Janela_quarto1_baixo
+    2300002: Janela_quarto1_cima
+    2300004: Janela_quarto2_baixo
+    2300006: Janela_quarto2_cima
+    2300008: Janela_quarto3_baixo
+    2300010: Janela_quarto3_cima
+    2300012: Janela_quarto4_baixo
+    2300014: Janela_quarto4_cima
+    2300016: Janela_quarto5_baixo
+    2300018: Janela_quarto5_cima
+    2300020: Vidro_janela_quarto1_baixo
+    2300022: Vidro_janela_quarto1_cima
+    2300024: Vidro_janela_quarto2_baixo
+    2300026: Vidro_janela_quarto2_cima
+    2300028: Vidro_janela_quarto3_baixo
+    2300030: Vidro_janela_quarto3_cima
+    2300032: Vidro_janela_quarto4_baixo
+    2300034: Vidro_janela_quarto4_cima
+    2300036: Vidro_janela_quarto5_baixo
+    2300038: Vidro_janela_quarto5_cima
+    3300000: Janela_quarto1_baixo
+    3300002: Janela_quarto1_cima
+    3300004: Janela_quarto2_baixo
+    3300006: Janela_quarto2_cima
+    3300008: Janela_quarto3_baixo
+    3300010: Janela_quarto3_cima
+    3300012: Janela_quarto4_baixo
+    3300014: Janela_quarto4_cima
+    3300016: Janela_quarto5_baixo
+    3300018: Janela_quarto5_cima
+    3300020: Vidro_janela_quarto1_baixo
+    3300022: Vidro_janela_quarto1_cima
+    3300024: Vidro_janela_quarto2_baixo
+    3300026: Vidro_janela_quarto2_cima
+    3300028: Vidro_janela_quarto3_baixo
+    3300030: Vidro_janela_quarto3_cima
+    3300032: Vidro_janela_quarto4_baixo
+    3300034: Vidro_janela_quarto4_cima
+    3300036: Vidro_janela_quarto5_baixo
+    3300038: Vidro_janela_quarto5_cima
+    4300000: Janela_quarto5_baixo
+    4300002: Vidro_janela_quarto5_baixo
+    4300004: Janela_quarto5_cima
+    4300006: Vidro_janela_quarto5_cima
+    4300008: Janela_quarto4_cima
+    4300010: Vidro_janela_quarto4_cima
+    4300012: Janela_quarto4_baixo
+    4300014: Vidro_janela_quarto4_baixo
+    4300016: Janela_quarto3_baixo
+    4300018: Vidro_janela_quarto3_baixo
+    4300020: Janela_quarto3_cima
+    4300022: Vidro_janela_quarto3_cima
+    4300024: Janela_quarto2_cima
+    4300026: Vidro_janela_quarto2_cima
+    4300028: Janela_quarto2_baixo
+    4300030: Vidro_janela_quarto2_baixo
+    4300032: Janela_quarto1_baixo
+    4300034: Vidro_janela_quarto1_baixo
+    4300036: Janela_quarto1_cima
+    4300038: Vidro_janela_quarto1_cima
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

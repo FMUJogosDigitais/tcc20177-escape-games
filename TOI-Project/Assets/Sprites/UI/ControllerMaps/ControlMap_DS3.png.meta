@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: a8f1656ad3e4ffb47a1ad40c15f215a3
+timeCreated: 1493008911
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ControlMap_00
+    21300002: ControlMap_01
+    21300004: ControlMap_03
+    21300006: ControlMap_04
+    21300008: ControlMap_05
+    21300010: ControlMap_08
+    21300012: ControlMap_09
+    21300014: ControlMap_14
+    21300016: ControlMap_15
+    21300018: ControlMap_18
+    21300020: ControlMap_10
+    21300022: ControlMap_11
+    21300024: ControlMap_02
+    21300026: ControlMap_06
+    21300028: ControlMap_07
+    21300030: ControlMap_17
+    21300032: ControlMap_16
+    21300034: ControlMap_12
+    21300036: ControlMap_13
+    21300038: ControlMap_19
+    21300040: ControlMap_20
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ControlMap_00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 62
+        width: 132
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_01
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 127
+        width: 218
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_03
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 63
+        width: 131
+        height: 119
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_04
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 122
+        width: 93
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_05
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 122
+        width: 100
+        height: 93
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_08
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 125
+        width: 82
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_09
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 125
+        width: 82
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_14
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 117
+        width: 95
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_15
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 118
+        width: 95
+        height: 94
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_18
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 117
+        width: 94
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_10
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 138
+        width: 92
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_11
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 139
+        width: 90
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_02
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 32
+        width: 217
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_06
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 25
+        width: 82
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_07
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 27
+        width: 82
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_17
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 17
+        width: 94
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_16
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 17
+        width: 93
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_12
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 34
+        width: 93
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_13
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 34
+        width: 94
+        height: 88
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 89
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ControlMap_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 90
+        height: 89
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

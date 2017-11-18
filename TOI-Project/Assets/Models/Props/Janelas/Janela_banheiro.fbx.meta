@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 4c0a0085a91ddb34eb0f5ee1ccf06d59
+timeCreated: 1502600231
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Janela_banheiro1_baixo
+    100004: Janela_banheiro1_cima
+    100006: Janela_banheiro2_baixo
+    100008: Janela_banheiro2_cima
+    100010: Vidro_janela_banheiro1_baixo
+    100012: Vidro_janela_banheiro1_cima
+    100014: Vidro_janela_banheiro2_baixo
+    100016: Vidro_janela_banheiro2_cima
+    100018: Camera
+    100020: Directional Light
+    400000: //RootNode
+    400002: Janela_banheiro1_baixo
+    400004: Janela_banheiro1_cima
+    400006: Janela_banheiro2_baixo
+    400008: Janela_banheiro2_cima
+    400010: Vidro_janela_banheiro1_baixo
+    400012: Vidro_janela_banheiro1_cima
+    400014: Vidro_janela_banheiro2_baixo
+    400016: Vidro_janela_banheiro2_cima
+    400018: Camera
+    400020: Directional Light
+    2300000: Janela_banheiro1_baixo
+    2300002: Janela_banheiro1_cima
+    2300004: Janela_banheiro2_baixo
+    2300006: Janela_banheiro2_cima
+    2300008: Vidro_janela_banheiro1_baixo
+    2300010: Vidro_janela_banheiro1_cima
+    2300012: Vidro_janela_banheiro2_baixo
+    2300014: Vidro_janela_banheiro2_cima
+    3300000: Janela_banheiro1_baixo
+    3300002: Janela_banheiro1_cima
+    3300004: Janela_banheiro2_baixo
+    3300006: Janela_banheiro2_cima
+    3300008: Vidro_janela_banheiro1_baixo
+    3300010: Vidro_janela_banheiro1_cima
+    3300012: Vidro_janela_banheiro2_baixo
+    3300014: Vidro_janela_banheiro2_cima
+    4300000: Janela_banheiro1_baixo
+    4300002: Vidro_janela_banheiro1_baixo
+    4300004: Janela_banheiro1_cima
+    4300006: Vidro_janela_banheiro1_cima
+    4300008: Janela_banheiro2_cima
+    4300010: Vidro_janela_banheiro2_cima
+    4300012: Janela_banheiro2_baixo
+    4300014: Vidro_janela_banheiro2_baixo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

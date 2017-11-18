@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 5f1d20ef9b805ed47945cd3dfe0aa525
+timeCreated: 1508911416
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bau_estante_sala_leitura
+    100002: Caixa_estante_sala_leitura
+    100004: Ceramica1_estante_sala_leitura
+    100006: Ceramica2_estante_sala_leitura
+    100008: Ceramica3_estante_sala_leitura
+    100010: //RootNode
+    100012: Estante_sala_leitura
+    100014: Livro_estante_sala_leitura
+    100016: Porta1_estante_sala_leitura
+    100018: Porta2_estante_sala_leitura
+    100020: Porta3_estante_sala_leitura
+    100022: Porta4_estante_sala_leitura
+    100024: Quadro_estante_sala_leitura
+    100026: Trofeu_estante_sala_leitura
+    400000: Bau_estante_sala_leitura
+    400002: Caixa_estante_sala_leitura
+    400004: Ceramica1_estante_sala_leitura
+    400006: Ceramica2_estante_sala_leitura
+    400008: Ceramica3_estante_sala_leitura
+    400010: Estante_sala_leitura
+    400012: //RootNode
+    400014: Livro_estante_sala_leitura
+    400016: Porta1_estante_sala_leitura
+    400018: Porta2_estante_sala_leitura
+    400020: Porta3_estante_sala_leitura
+    400022: Porta4_estante_sala_leitura
+    400024: Quadro_estante_sala_leitura
+    400026: Trofeu_estante_sala_leitura
+    2300000: Bau_estante_sala_leitura
+    2300002: Caixa_estante_sala_leitura
+    2300004: Ceramica1_estante_sala_leitura
+    2300006: Ceramica2_estante_sala_leitura
+    2300008: Ceramica3_estante_sala_leitura
+    2300010: Estante_sala_leitura
+    2300012: Livro_estante_sala_leitura
+    2300014: Porta1_estante_sala_leitura
+    2300016: Porta2_estante_sala_leitura
+    2300018: Porta3_estante_sala_leitura
+    2300020: Porta4_estante_sala_leitura
+    2300022: Quadro_estante_sala_leitura
+    2300024: Trofeu_estante_sala_leitura
+    3300000: Bau_estante_sala_leitura
+    3300002: Caixa_estante_sala_leitura
+    3300004: Ceramica1_estante_sala_leitura
+    3300006: Ceramica2_estante_sala_leitura
+    3300008: Ceramica3_estante_sala_leitura
+    3300010: Estante_sala_leitura
+    3300012: Livro_estante_sala_leitura
+    3300014: Porta1_estante_sala_leitura
+    3300016: Porta2_estante_sala_leitura
+    3300018: Porta3_estante_sala_leitura
+    3300020: Porta4_estante_sala_leitura
+    3300022: Quadro_estante_sala_leitura
+    3300024: Trofeu_estante_sala_leitura
+    4300000: Porta3_estante_sala_leitura
+    4300002: Porta4_estante_sala_leitura
+    4300004: Porta1_estante_sala_leitura
+    4300006: Porta2_estante_sala_leitura
+    4300008: Estante_sala_leitura
+    4300010: Trofeu_estante_sala_leitura
+    4300012: Quadro_estante_sala_leitura
+    4300014: Livro_estante_sala_leitura
+    4300016: Ceramica3_estante_sala_leitura
+    4300018: Ceramica2_estante_sala_leitura
+    4300020: Ceramica1_estante_sala_leitura
+    4300022: Caixa_estante_sala_leitura
+    4300024: Bau_estante_sala_leitura
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

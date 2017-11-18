@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 08ca0c8c5f3eacf4a96f6e4199a1644c
+timeCreated: 1508885731
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armario_central_cozinha
+    100002: //RootNode
+    100004: Armario_cozinha
+    100006: Balcao_armario_cozinha
+    100008: Gaveta1_armario_central_cozinha
+    100010: Gaveta2_armario_central_cozinha
+    100012: Gaveta3_armario_central_cozinha
+    100014: Gaveta4_armario_central_cozinha
+    100016: Gaveta5_armario_central_cozinha
+    100018: Gaveta6_armario_central_cozinha
+    100020: Portas_armario_central_cozinha
+    100022: Portas_armario_cozinha
+    400000: Armario_central_cozinha
+    400002: Armario_cozinha
+    400004: //RootNode
+    400006: Balcao_armario_cozinha
+    400008: Gaveta1_armario_central_cozinha
+    400010: Gaveta2_armario_central_cozinha
+    400012: Gaveta3_armario_central_cozinha
+    400014: Gaveta4_armario_central_cozinha
+    400016: Gaveta5_armario_central_cozinha
+    400018: Gaveta6_armario_central_cozinha
+    400020: Portas_armario_central_cozinha
+    400022: Portas_armario_cozinha
+    2300000: Armario_central_cozinha
+    2300002: Armario_cozinha
+    2300004: Balcao_armario_cozinha
+    2300006: Gaveta1_armario_central_cozinha
+    2300008: Gaveta2_armario_central_cozinha
+    2300010: Gaveta3_armario_central_cozinha
+    2300012: Gaveta4_armario_central_cozinha
+    2300014: Gaveta5_armario_central_cozinha
+    2300016: Gaveta6_armario_central_cozinha
+    2300018: Portas_armario_central_cozinha
+    2300020: Portas_armario_cozinha
+    3300000: Armario_central_cozinha
+    3300002: Armario_cozinha
+    3300004: Balcao_armario_cozinha
+    3300006: Gaveta1_armario_central_cozinha
+    3300008: Gaveta2_armario_central_cozinha
+    3300010: Gaveta3_armario_central_cozinha
+    3300012: Gaveta4_armario_central_cozinha
+    3300014: Gaveta5_armario_central_cozinha
+    3300016: Gaveta6_armario_central_cozinha
+    3300018: Portas_armario_central_cozinha
+    3300020: Portas_armario_cozinha
+    4300000: Gaveta3_armario_central_cozinha
+    4300002: Balcao_armario_cozinha
+    4300004: Armario_cozinha
+    4300006: Portas_armario_cozinha
+    4300008: Gaveta5_armario_central_cozinha
+    4300010: Gaveta6_armario_central_cozinha
+    4300012: Gaveta2_armario_central_cozinha
+    4300014: Gaveta1_armario_central_cozinha
+    4300016: Armario_central_cozinha
+    4300018: Portas_armario_central_cozinha
+    4300020: Gaveta4_armario_central_cozinha
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

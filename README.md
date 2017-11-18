@@ -1,20 +1,21 @@
-# Nome do projeto
+# Gorrog's Escape - The First Shield
+'
+(Anteriormente: Times of Insanity - Gorrog's Escape)
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+# Nome completo dos integrantes do projeto:
 
-# Nome compledo dos integrantes do projeto:
+* Debora Estevam Da Rocha
+* Igor Zanini Cardeal
+* Leonardo Martiliano De Souza
 
-* Nome 1
-* Nome 2
-* Nome 3
-* Nome 4
+Com participação especial de:
 
-# Imagens do jogo:
+* João Marcos - Modelador / Artista 3D
+* Rodrigo Badin - Programador / Unity Developer
 
-Inserir imagens do jogo.
+# Observações:
 
-# Informações de como compilar o jogo:
+Os assets comprados na Asset Store utilizados no projeto apresentado a banca, foram removidos devido ao licenciamento da Unity.
+Esta versão do projeto está re-adaptada com a dependêcia dos mesmos removida.
 
-Descriver aqui quais são as ferramentas necessárias para alterar e compilar o jogo a partir do código fonte.
-
-**OBSERVAÇÃO: NO REPOSITÓRIO DEVE EXISTIR TODOS OS ARQUIVOS DESENVOLVIDOS PARA O PROJETO, INCLUINDO ARTES, MODELOS 3D ORIGINAIS, ETC..**
+Versão da Unity utilizada: 5.6.3f1

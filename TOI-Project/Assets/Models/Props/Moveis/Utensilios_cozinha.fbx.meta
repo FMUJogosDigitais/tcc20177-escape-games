@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 28984537c2461c344aa861f2c3ae41c6
+timeCreated: 1510886528
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Batata_cozinha
+    100002: Beterraba_cozinha
+    100004: Caixote_cozinha
+    100006: Cesto_fruta_cozinha
+    100008: Conteudo_pote1_cozinha
+    100010: Copo_cozinha
+    100012: Cumbuca_cozinha
+    100014: Garrafa_vinho_cozinha
+    100016: Jarro_cozinha
+    100018: Laranja_cozinha
+    100020: Panelas_cozinha
+    100022: Pendura_panela_cozinha
+    100024: Pepino_cozinha
+    100026: Porta_faca_cozinha
+    100028: Pote1_cozinha
+    100030: Rolo_massa_cozinha
+    100032: Tabua_cozinha
+    100034: Tampa_pote1_cozinha
+    100036: Tempero_cozinha
+    100038: //RootNode
+    100040: Vela_cozinha
+    100042: Xicara_cozinha
+    400000: Batata_cozinha
+    400002: Beterraba_cozinha
+    400004: Caixote_cozinha
+    400006: Cesto_fruta_cozinha
+    400008: Conteudo_pote1_cozinha
+    400010: Copo_cozinha
+    400012: Cumbuca_cozinha
+    400014: Garrafa_vinho_cozinha
+    400016: Jarro_cozinha
+    400018: Laranja_cozinha
+    400020: Panelas_cozinha
+    400022: Pendura_panela_cozinha
+    400024: Pepino_cozinha
+    400026: Porta_faca_cozinha
+    400028: Pote1_cozinha
+    400030: Rolo_massa_cozinha
+    400032: Tabua_cozinha
+    400034: Tampa_pote1_cozinha
+    400036: Tempero_cozinha
+    400038: //RootNode
+    400040: Vela_cozinha
+    400042: Xicara_cozinha
+    2300000: Batata_cozinha
+    2300002: Beterraba_cozinha
+    2300004: Caixote_cozinha
+    2300006: Cesto_fruta_cozinha
+    2300008: Conteudo_pote1_cozinha
+    2300010: Copo_cozinha
+    2300012: Cumbuca_cozinha
+    2300014: Garrafa_vinho_cozinha
+    2300016: Jarro_cozinha
+    2300018: Laranja_cozinha
+    2300020: Panelas_cozinha
+    2300022: Pendura_panela_cozinha
+    2300024: Pepino_cozinha
+    2300026: Porta_faca_cozinha
+    2300028: Pote1_cozinha
+    2300030: Rolo_massa_cozinha
+    2300032: Tabua_cozinha
+    2300034: Tampa_pote1_cozinha
+    2300036: Tempero_cozinha
+    2300038: Vela_cozinha
+    2300040: Xicara_cozinha
+    3300000: Batata_cozinha
+    3300002: Beterraba_cozinha
+    3300004: Caixote_cozinha
+    3300006: Cesto_fruta_cozinha
+    3300008: Conteudo_pote1_cozinha
+    3300010: Copo_cozinha
+    3300012: Cumbuca_cozinha
+    3300014: Garrafa_vinho_cozinha
+    3300016: Jarro_cozinha
+    3300018: Laranja_cozinha
+    3300020: Panelas_cozinha
+    3300022: Pendura_panela_cozinha
+    3300024: Pepino_cozinha
+    3300026: Porta_faca_cozinha
+    3300028: Pote1_cozinha
+    3300030: Rolo_massa_cozinha
+    3300032: Tabua_cozinha
+    3300034: Tampa_pote1_cozinha
+    3300036: Tempero_cozinha
+    3300038: Vela_cozinha
+    3300040: Xicara_cozinha
+    4300000: Vela_cozinha
+    4300002: Xicara_cozinha
+    4300004: Tempero_cozinha
+    4300006: Tabua_cozinha
+    4300008: Rolo_massa_cozinha
+    4300010: Pote1_cozinha
+    4300012: Conteudo_pote1_cozinha
+    4300014: Tampa_pote1_cozinha
+    4300016: Porta_faca_cozinha
+    4300018: Pepino_cozinha
+    4300020: Pendura_panela_cozinha
+    4300022: Panelas_cozinha
+    4300024: Laranja_cozinha
+    4300026: Jarro_cozinha
+    4300028: Garrafa_vinho_cozinha
+    4300030: Cumbuca_cozinha
+    4300032: Copo_cozinha
+    4300034: Cesto_fruta_cozinha
+    4300036: Caixote_cozinha
+    4300038: Beterraba_cozinha
+    4300040: Batata_cozinha
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

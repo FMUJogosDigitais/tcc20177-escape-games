@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 1b85eb8f6e90d8c489d54f89646b662d
+timeCreated: 1510762926
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Comoda1_quarto_dono
+    100002: Comoda2_quarto_dono
+    100004: //RootNode
+    100006: Gaveta1_comoda1_quarto_dono
+    100008: Gaveta1_comoda2_quarto_dono
+    100010: Gaveta2_comoda1_quarto_dono
+    100012: Gaveta2_comoda2_quarto_dono
+    100014: Gaveta3_comoda1_quarto_dono
+    100016: Gaveta3_comoda2_quarto_dono
+    100018: Livro_comoda1_quarto_dono
+    100020: Quadro_comoda_quarto_dono
+    100022: Relogio_comoda2_quarto_dono
+    400000: Comoda1_quarto_dono
+    400002: Comoda2_quarto_dono
+    400004: //RootNode
+    400006: Gaveta1_comoda1_quarto_dono
+    400008: Gaveta1_comoda2_quarto_dono
+    400010: Gaveta2_comoda1_quarto_dono
+    400012: Gaveta2_comoda2_quarto_dono
+    400014: Gaveta3_comoda1_quarto_dono
+    400016: Gaveta3_comoda2_quarto_dono
+    400018: Livro_comoda1_quarto_dono
+    400020: Quadro_comoda_quarto_dono
+    400022: Relogio_comoda2_quarto_dono
+    2300000: Comoda1_quarto_dono
+    2300002: Comoda2_quarto_dono
+    2300004: Gaveta1_comoda1_quarto_dono
+    2300006: Gaveta1_comoda2_quarto_dono
+    2300008: Gaveta2_comoda1_quarto_dono
+    2300010: Gaveta2_comoda2_quarto_dono
+    2300012: Gaveta3_comoda1_quarto_dono
+    2300014: Gaveta3_comoda2_quarto_dono
+    2300016: Livro_comoda1_quarto_dono
+    2300018: Quadro_comoda_quarto_dono
+    2300020: Relogio_comoda2_quarto_dono
+    3300000: Comoda1_quarto_dono
+    3300002: Comoda2_quarto_dono
+    3300004: Gaveta1_comoda1_quarto_dono
+    3300006: Gaveta1_comoda2_quarto_dono
+    3300008: Gaveta2_comoda1_quarto_dono
+    3300010: Gaveta2_comoda2_quarto_dono
+    3300012: Gaveta3_comoda1_quarto_dono
+    3300014: Gaveta3_comoda2_quarto_dono
+    3300016: Livro_comoda1_quarto_dono
+    3300018: Quadro_comoda_quarto_dono
+    3300020: Relogio_comoda2_quarto_dono
+    4300000: Relogio_comoda2_quarto_dono
+    4300002: Quadro_comoda_quarto_dono
+    4300004: Livro_comoda1_quarto_dono
+    4300006: Gaveta1_comoda1_quarto_dono
+    4300008: Gaveta2_comoda1_quarto_dono
+    4300010: Gaveta3_comoda1_quarto_dono
+    4300012: Comoda1_quarto_dono
+    4300014: Comoda2_quarto_dono
+    4300016: Gaveta3_comoda2_quarto_dono
+    4300018: Gaveta2_comoda2_quarto_dono
+    4300020: Gaveta1_comoda2_quarto_dono
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
