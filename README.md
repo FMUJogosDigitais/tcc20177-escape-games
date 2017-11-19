@@ -23,3 +23,7 @@ Os assets comprados na Asset Store utilizados no projeto apresentado a banca, fo
 Esta versão do projeto está re-adaptada com a dependêcia dos mesmos removida.
 
 Versão da Unity utilizada: 5.6.3f1
+
+# Download do jogo:
+
+O download do jogo pode ser encontrado em: [Itch.io](https://ecapegames.itch.io/gorrogs-escape)
